@@ -44,24 +44,44 @@ player/female/jump1		dsfjump
 player/female/gibbed		dsslop
 player/female/fist		dspunch
 
-player/cyborg/death1		dscldeth
-player/cyborg/death2		dscldeth
-player/cyborg/death3		dscldeth
-player/cyborg/death4		dscldeth
-player/cyborg/xdeath1		dscdiehi
-player/cyborg/pain100_1		dsclpain
-player/cyborg/pain100_2		dsclpain
-player/cyborg/pain75_1		dsclpain
-player/cyborg/pain75_2		dsclpain
-player/cyborg/pain50_1		dsclpain
-player/cyborg/pain50_2		dsclpain
-player/cyborg/pain25_1		dsclpain
-player/cyborg/pain25_2		dsclpain
-player/cyborg/grunt1		dscnoway
-player/cyborg/land1		dscoof
-player/cyborg/jump1		dscjump
-player/cyborg/gibbed		dsslop
-player/cyborg/fist		dspunch
+player/other/death1		dscldeth
+player/other/death2		dscldeth
+player/other/death3		dscldeth
+player/other/death4		dscldeth
+player/other/xdeath1		dscdiehi
+player/other/pain100_1		dsclpain
+player/other/pain100_2		dsclpain
+player/other/pain75_1		dsclpain
+player/other/pain75_2		dsclpain
+player/other/pain50_1		dsclpain
+player/other/pain50_2		dsclpain
+player/other/pain25_1		dsclpain
+player/other/pain25_2		dsclpain
+player/other/grunt1		dscnoway
+player/other/land1		dscoof
+player/other/jump1		dscjump
+player/other/gibbed		dsslop
+player/other/fist		dspunch
+
+player/object/death1		dscldeth
+player/object/death2		dscldeth
+player/object/death3		dscldeth
+player/object/death4		dscldeth
+player/object/xdeath1		dscdiehi
+player/object/pain100_1		dsclpain
+player/object/pain100_2		dsclpain
+player/object/pain75_1		dsclpain
+player/object/pain75_2		dsclpain
+player/object/pain50_1		dsclpain
+player/object/pain50_2		dsclpain
+player/object/pain25_1		dsclpain
+player/object/pain25_2		dsclpain
+player/object/grunt1		dscnoway
+player/object/land1		dscoof
+player/object/jump1		dscjump
+player/object/gibbed		dsslop
+player/object/fist		dspunch
+
 
 //
 // Weapons
